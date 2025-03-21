@@ -1,8 +1,16 @@
-LangChain API Integration: Connecting Open and Closed LLM APIs
+LangChain API Integration: Connecting Open and Closed LLM APIs 
+
+
 Overview
+
+
 This repository demonstrates how to integrate LangChain, a cutting-edge framework for building and orchestrating language models, with a variety of closed and open-source LLM APIs. Additionally, it shows how to embed specialized ChatLLM APIs for domain-specific tasks.
 
+
+
 LangChain is rapidly evolving as a powerful tool for creating scalable language model applications. This repository provides step-by-step guidance on leveraging LangChain with different API services to create versatile and customized language model applications.
+
+
 
 Key Features
 Integration with Closed APIs (OpenAI, Cohere, etc.)
