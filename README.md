@@ -22,9 +22,14 @@ Clone the repository:
 
 ## bash
 Copy
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https:[//github.com/yourusername/your-repo-name.git](https://github.com/PUNEET-KOUNDAL/langchain)
+
+
 cd your-repo-name
-Install dependencies:
+
+
+Install dependencies: pip install -r requirement.txt
+
 
 ## Ensure you have Python 3.7+ installed. Then, install the required dependencies:
 
