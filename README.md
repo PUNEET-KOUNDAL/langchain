@@ -22,7 +22,7 @@ Clone the repository:
 
 ## bash
 Copy
-git clone https:[//github.com/yourusername/your-repo-name.git](https://github.com/PUNEET-KOUNDAL/langchain)
+git clone https:[//github.com/PUNEET-KOUNDAL/langchain](https://github.com/PUNEET-KOUNDAL/langchain)
 
 
 cd your-repo-name
